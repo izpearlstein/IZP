@@ -11,6 +11,7 @@ from sqlalchemy import create_engine
 from flask import Flask, jsonify, render_template
 from flask_sqlalchemy import SQLAlchemy
 import gunicorn
+print(gunicorn.__version__)
 
 app = Flask(__name__)
 

@@ -42,8 +42,7 @@ function buildCharts(sample) {
       var bubble_plot = [bubble];
       var bubble_layout = {
         title: "Belly Button Bacteria",
-        xaxis: {title: "OTU ID"},
-        margin: {t: 0}
+        xaxis: {title: "OTU ID"}
       };
       Plotly.newPlot("bubble", bubble_plot, bubble_layout);
 
@@ -59,8 +58,7 @@ function buildCharts(sample) {
         "type": "pie"
       }];
       var pie_layout = {
-        title: "Top 10 Belly Button Bacteria Samples",
-        margin: {t: 0, l: 0}
+        title: "Top 10 Belly Button Bacteria Samples"
       };
     Plotly.newPlot("pie", pie_plot, pie_layout);
     });
