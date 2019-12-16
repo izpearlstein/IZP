@@ -1,0 +1,23 @@
+Tableau Homework - Citi Bike Analytics
+
+Summary of findings:
+
+1. Ridership Growth: 
+
+As expected, more people use Citi Bike in the warmer months of the year. Interesting to note, however, is that ridership is greater in the fall than the spring. Total amount of annual members increased steadily over 2018.
+
+2. Seasonality Peaks: 
+
+Seemingly regardless of whether it is summer or winter, the two peak hours during the day are 7-8 AM and 5-6 PM. This suggests many people are using Citi Bike not only for leisure, but to get to and from work every day.
+
+3. Popular Stations: 
+
+The most popular stations are in New Jersey, contrary to popular belief that Citi Bike is a NYC heavy program.
+
+4. Age: 
+
+While people in their 30s and late 40s tend to use Citi Bikes the most frequently (likely for commuting), teenagers tend to average the longest trip durations during their rides, with retirees as then next longest segment.
+
+5. Location: 
+
+Most people use Citi Bikes in New Jersey. This suggests that more people in NYC use other modes of transportation, while in New Jersey, it is more important for people.
